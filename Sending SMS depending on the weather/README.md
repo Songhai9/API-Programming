@@ -41,4 +41,5 @@ The script will perform the following steps:
 - Evaluate the weather conditions.
 - Send an SMS alert via Twilio if rain is forecasted.
 
+[Link to the project's repo](https://github.com/Songhai9/Sending-SMS-When-Raining)
 
