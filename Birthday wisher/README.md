@@ -56,3 +56,5 @@ python main.py
 
 ## Notes
 - Customize the letter templates in the `letter_templates` folder to suit your style.
+
+[Link to the project's repo](https://github.com/Songhai9/Birthday-Wisher)
