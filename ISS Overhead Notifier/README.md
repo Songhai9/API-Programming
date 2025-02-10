@@ -39,3 +39,5 @@ The script will check for the ISS position every 60 seconds and send an email if
 
 - Ensure that you have a stable internet connection.
 - The script is set to run indefinitely. Use `Ctrl + C` to stop the process.
+
+[Link to the project's repo](https://github.com/Songhai9/ISS-Notifier)
