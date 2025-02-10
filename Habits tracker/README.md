@@ -29,3 +29,5 @@ This project uses the Pixela API to track habits, such as coding hours, by creat
 - Learn how to interact with REST APIs using Python.
 - Utilize environment variables for secure token management.
 - Build a habit tracking mechanism integrating external APIs.
+
+[Link to the project's repo](https://github.com/Songhai9/Habits-Tracker)
