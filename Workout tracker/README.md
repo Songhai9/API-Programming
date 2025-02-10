@@ -34,3 +34,5 @@ python main.py
 ```
 Follow the prompt to input a description of your workout. The program will then log the details to your Google Sheet.
 
+[Link to the project's repo](https://github.com/Songhai9/Workout-Tracker)
+
