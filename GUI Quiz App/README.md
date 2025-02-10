@@ -18,3 +18,5 @@ A simple quiz application built with Python and Tkinter. The app fetches quiz qu
 ## License
 
 This project is open source. See the repository for more information.
+
+[Link to the project's repo](https://github.com/Songhai9/GUI-Quiz-App)
